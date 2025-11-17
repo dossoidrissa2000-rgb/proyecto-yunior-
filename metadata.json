@@ -1,0 +1,5 @@
+{
+  "name": "Yunior - AI Project Assistant",
+  "description": "An AI-powered application to analyze meeting minutes and generate structured project documents like budgets, milestones, and user stories for web projects. Designed for frontend developers with a professional, agency-style workflow.",
+  "requestFramePermissions": []
+}
